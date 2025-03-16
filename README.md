@@ -40,10 +40,13 @@ class="center">
 📈 **Growing model**: Incrementally reconstructs the model using accurate pose and depth.  
 ## 📽️ Video
 
+
 <video width="100%" controls>
   <source src="./figure/video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+🔗 **See the video here:** [➡ Click to Watch](./figure/video.mp4)
 
 ## 📌 Setup
 
