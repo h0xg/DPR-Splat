@@ -1,0 +1,44 @@
+# Conda dependencies
+cudatoolkit==11.6
+pip==22.3.1
+pytorch==1.12.1
+torchaudio==0.12.1
+torchvision==0.13.1
+tqdm
+plyfile==0.8.1
+
+# PIP dependencies
+opencv-python==4.8.1.78
+numpy==1.23.1
+scipy
+munch
+trimesh
+evo==1.11.0
+open3d==0.17.0
+torchmetrics
+imgviz
+PyOpenGL
+glfw
+PyGLM
+wandb
+lpips
+rich
+ruff
+xformers==0.0.21
+Pillow
+DateTime
+matplotlib
+tensorboardX
+imgaug
+iopath
+imagecorruptions
+mmcv
+roma
+gradio
+tensorboard
+pyglet<2
+huggingface-hub[torch]>=0.22
+
+# Submodules
+submodules/simple-knn
+submodules/diff-gaussian-rasterization
